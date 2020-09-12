@@ -2,6 +2,26 @@
 
 ![Amazon Clone](./amazonClone.png)
 
+## Contents
+### 1. Description
+### 2. Objective
+### 3. Setup
+
+## Description 
+This is an amazon clone app on react with the following added functionalities...
+
+## Objective
+To improve overall front-end development and work with modern native frameworks.
+
+## Installation
+### 1. Clone Repo
+*  * ```$ git clone https://github.com/Fernie-Hacks/amazon-clone.git``.
+### 2. Install the node modules
+ * ```$ npm install```.
+ ### 3. Run application
+  * ```$ npm start```.
+  
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
